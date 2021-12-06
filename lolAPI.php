@@ -1,9 +1,9 @@
 <?php
 	/**	CLASS lolAPI
 	 *	@created 01/01/2014
-	 *	@author JD McKinstry <jdmckinstry@gmail.com>
+	 *	@author celine <wogh0509@gmail.com>
 	 *	@uses CURL
-	 *	@copyright Copyright (c) 2014, J.D. McKinstry
+	 *	@copyright Copyright (c) 2021, J.D. McKinstry
 	 *	@license https://github.com/JDMcKinstry/lolAPI/blob/master/LICENSE
 	 *	@modified 01/30/2014
 	 *	@modifiedby JD McKinstry
