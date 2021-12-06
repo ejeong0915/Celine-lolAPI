@@ -1,12 +1,12 @@
 <?php
 	/**	CLASS lolAPI
-	 *	@created 01/01/2014
-	 *	@author celine <wogh0509@gmail.com>
+	 *	@created 11/08/2021
+	 *	@author Céline <wogh0509@gmail.com>
 	 *	@uses CURL
-	 *	@copyright Copyright (c) 2021, J.D. McKinstry
-	 *	@license https://github.com/JDMcKinstry/lolAPI/blob/master/LICENSE
-	 *	@modified 01/30/2014
-	 *	@modifiedby JD McKinstry
+	 *	@copyright Copyright (c) 2021, Céline
+	 *	@license https://github.com/ejeong0915/lolAPI/blob/master/LICENSE
+	 *	@modified 12/06/2021
+	 *	@modifiedby ejeong0915
 	 *	@contributions
 	 *	 - awaiting contributions
 	 */
